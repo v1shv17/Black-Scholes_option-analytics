@@ -66,8 +66,8 @@ Call Option Price: 12.34
 ```
 ## Database Table Output
 
-Here is an example of the `options_data` table populated with retrieved options contracts:
-![Screenshot](Screenshot%202025-02-14%20at%204.36.49%20PM%205.07.20%20PM.png)
+![Database Output](Database_Output.png)
+
 
 ## How is This Useful?
 - **Traders & Analysts**: Evaluate option prices and potential market moves.
