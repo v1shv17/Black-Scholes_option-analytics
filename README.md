@@ -67,9 +67,7 @@ Call Option Price: 12.34
 ## Database Table Output
 
 Here is an example of the `options_data` table populated with retrieved options contracts:
-
-![Database Output](Screenshot 2025-02-14 at 4.36.49 PM.png)
-
+![Screenshot](Screenshot%202025-02-14%20at%204.36.49%20PM%205.07.20%20PM.png)
 
 ## How is This Useful?
 - **Traders & Analysts**: Evaluate option prices and potential market moves.
@@ -88,9 +86,6 @@ Contributions are welcome! To contribute:
 3. Commit changes and submit a pull request
 
 Ensure adherence to Python best practices and PEP-8 styling.
-
-## License
-This project is licensed under the MIT License. Feel free to modify and use it as needed.
 
 ## Contact
 For any questions or suggestions, open an issue or reach out via GitHub.
