@@ -64,6 +64,12 @@ For a specific Black-Scholes calculation:
 ```sh
 Call Option Price: 12.34
 ```
+## Database Table Output
+
+Here is an example of the `options_data` table populated with retrieved options contracts:
+
+![Database Output](Screenshot 2025-02-14 at 4.36.49 PM.png)
+
 
 ## How is This Useful?
 - **Traders & Analysts**: Evaluate option prices and potential market moves.
